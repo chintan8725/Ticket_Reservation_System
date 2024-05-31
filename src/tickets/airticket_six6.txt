@@ -1,0 +1,4 @@
+********************	 Ticket Receipt 	********************
+AirPlane Name: Air India Airlines	 From Mumbai to Dubai
+Name: six		 seat no: 6
+Ammount paid 5000 rs.

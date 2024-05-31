@@ -1,0 +1,4 @@
+********************	 Ticket Receipt 	********************
+Bus Name: REAL TRAVELS	 From Ahmdabad to Rajkot
+Name: man		 seat no: 1
+Ammount paid 200 rs.

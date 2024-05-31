@@ -1,0 +1,4 @@
+********************	 Ticket Receipt 	********************
+AirPlane Name: SpiceJet Airlines	 From Mumbai to Singapore
+Name: chintu		 seat no: 15
+Ammount paid 5000 rs.

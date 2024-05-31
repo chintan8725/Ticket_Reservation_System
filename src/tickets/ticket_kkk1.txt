@@ -1,0 +1,4 @@
+***************	 Ticket Receipt 	***************
+Bus Name: SOMNATH EXPRESS	 From Ahmdabad to Surat
+Name: kkk		 seat no: 1
+Ammount paid 200 rs.

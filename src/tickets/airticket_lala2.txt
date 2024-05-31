@@ -1,0 +1,4 @@
+********************	 Ticket Receipt 	********************
+AirPlane Name: Air India Airlines	 From Mumbai to Dubai
+Name: lala		 seat no: 2
+Ammount paid 5000 rs.

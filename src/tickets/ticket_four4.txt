@@ -1,0 +1,4 @@
+********************	 Ticket Receipt 	********************
+Bus Name: SOMNATH EXPRESS	 From Ahmdabad to Surat
+Name: four		 seat no: 4
+Ammount paid 200 rs.
